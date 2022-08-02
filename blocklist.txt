@@ -1,0 +1,4 @@
+www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/face.*book/i)
+www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/🆃🅴🅻🅴🅶🆁🅼/i)
+www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/bitcoin/i)
+www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/what.*app/i)
