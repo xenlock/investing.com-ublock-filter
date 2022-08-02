@@ -34,9 +34,9 @@ https://raw.githubusercontent.com/xenlock/investing.com-ublock-filter/main/block
     ```
     www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/face.*book/i)
 
-    >www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/🆃🅴🅻🅴🅶🆁🅼/i)
+    www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/🆃🅴🅻🅴🅶🆁🅼/i)
     
-    >www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/UserName/i)
+    www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/UserName/i)
     ```
     
     >⚠️ You can replace the UserName with any user you want to block and you'll never see their posts!
