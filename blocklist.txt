@@ -4,4 +4,5 @@ www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/🆃🅴�
 www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/bitcoin/i)
 www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/crypto/i)
 www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/what.*app/i)
-www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/Gold kk/i)
+www.investing.com##div.comment_comment-wrapper__hJ8sd:has-text(/Gold kk/i)
+www.investing.com##div.comment_comment-wrapper__hJ8sd:has-text(/WANG YI/i)
