@@ -1,4 +1,5 @@
 www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/f.*book/i)
+www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/🅕.*🅚/i)
 www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/f.*a.*c.*.e.*b.*o.*o.*k/i)
 www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/🆃🅴🅻🅴🅶🆁🅼/i)
 www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/bitcoin/i)
