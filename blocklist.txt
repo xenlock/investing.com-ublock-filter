@@ -9,6 +9,7 @@ www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/what.*app/
 
 ! Block phone numbers
 www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/(\s*\d){10}/)
+www.investing.com##div.discussion_discussion-wrapper__2TUX4:has-text(/[0-9].*[0-9].*[0-9].*[0-9].*[0-9].*[0-9].*[0-9].*[0-9].*[0-9].*[0-9]/)
 
 ! Block individual posts only (as opposed to the entire thread)
 www.investing.com##div.comment_comment-wrapper__hJ8sd:has-text(/Gold kk/i)
